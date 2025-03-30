@@ -37,7 +37,7 @@ By using a **smart contract**, we eliminate intermediaries, ensuring that ticket
 ### 5. ❌ **Event Cancellation & Refunds**
 
 - The event organizer can **cancel an event**.
-- If canceled, ticket holders can be refunded (future enhancement).
+- If canceled, ticket holders can be refunded.
 
 ## 🛠️ Smart Contract Breakdown
 
